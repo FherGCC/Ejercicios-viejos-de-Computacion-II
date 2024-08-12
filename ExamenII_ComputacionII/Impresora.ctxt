@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Impresora
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Impresora\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=marca_n\ modelo_n
+comment1.target=Impresora(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=void\ mostrarDatos()
+numComments=4

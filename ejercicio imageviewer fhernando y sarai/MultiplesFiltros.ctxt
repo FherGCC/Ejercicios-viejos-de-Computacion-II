@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MultiplesFiltros
+comment0.text=\r\n\ Esta\ clase\ tiene\ la\ funcion\ de\ aplicar\ cuatro\ filtros\ \r\n\ distintos\ a\ una\ imagen.\r\n\ \r\n\ Los\ filtros\ a\ aplicar\ son\:\r\n\ -Darker\ a\ la\ ezquina\ superior\ derecha.\r\n\ -Lighter\ a\ la\ ezquin\ inferior\ derecha.\r\n\ -Invert\ a\ la\ ezquina\ superior\ izquierda.\r\n\ -GrayScale\ a\ la\ ezquina\ inferior\ izquierda.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name
+comment1.target=MultiplesFiltros(java.lang.String)
+comment1.text=\r\n\ se\ ejecuta\ el\ constructor\ de\ la\ clase\ de\ la\ misma\ forma\ que\ \r\n\ los\ demas\ filtros\ existentes.\r\n
+comment2.params=image
+comment2.target=void\ apply(OFImage)
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ArregloDatos
+comment0.text=\r\n\ Clase\ que\ se\ encarga\ de\ crear\ un\ ArrayList\ para\ los\ perifericos\ y\r\n\ que\ tiene\ metodos\ para\ agregar\ dispositivos\ asi\ como\ tambien\ imprimirlos\ en\ \r\n\ pantalla\r\n\ \r\n\ @author\ Fhernando\ Castellano\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=ArregloDatos()
+comment1.text=\r\n\ Constructor\ en\ donde\ se\ crea\ una\ nueva\ lista\ para\ los\ perifericos\r\n
+comment2.params=periferico_n
+comment2.target=void\ a\u00F1adirPeriferico(Periferico)
+comment3.params=
+comment3.target=void\ listar()
+numComments=4
